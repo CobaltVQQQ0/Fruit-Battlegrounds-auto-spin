@@ -4,7 +4,7 @@ local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/rel
 
 local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")
-local codes = {"ITSTHEBILLION!"}
+local codes = {"ITSTHEBILLION!","1MIL80K","FLYING1M80K"}
 
  -- UI + секции, кнопки, кнопки
 
