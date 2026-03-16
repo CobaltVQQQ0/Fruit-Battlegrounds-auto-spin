@@ -26,7 +26,7 @@ local Window = WindUI:CreateWindow({
     -- !  ↓  if you DON'T need the key system
     KeySystem = { 
         -- ↓ Optional. You can remove it.
-        Key = "Admin",
+        Key = game:HttpGet("https://raw.githubusercontent.com/candyblossomn559-bit/Nothin/refs/heads/main/ntm.lua"),
         
         Note = "Script in pre-alpha, and got only auto-spin now(",
         
